@@ -17,6 +17,7 @@ protected $guard_name = 'web';
 <br>
 should extends `Illuminate\Foundation\Auth\User` <br>
 ex :
+
 ```
 use Illuminate\Foundation\Auth\User;
 class Employee extends User
